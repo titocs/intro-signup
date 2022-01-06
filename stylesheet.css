@@ -197,6 +197,10 @@ span {
     font-weight: 700;
 }
 
+span:hover {
+    cursor: pointer;
+}
+
 form p {
     text-align: center;
     font-size: 11px;
